@@ -485,7 +485,10 @@ public class Main {
         } catch (ClassCastException ex) { // we used instincof so Exception wont happen
             System.err.println("Invalid Downcasting");
         }//we dont need array exception bec our indexes number is known
-
+         catch (Exception ex){
+            System.err.println("there is an error");
+        }// to handle any other problems
+        
     }
 
     public static Series selectRandomSeries(ArrayList<Type> M) {
