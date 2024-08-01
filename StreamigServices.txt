@@ -1,0 +1,36 @@
+Title: home alone
+Category: comedy
+Movie Duration: 124
+
+Title: the Godfather
+Category: crime
+Movie Duration: 200
+
+Title: the Dark Knight
+Category: crime
+Movie Duration: 134
+
+Title: Angry Men
+Category: Drama
+Movie Duration: 102
+
+Title: Brooklyn nine nine 
+Category: comedy
+Seasons: 9
+Episodes: 100
+
+Title: Friends 
+Category: comedy
+Seasons: 10
+Episodes: 200
+
+Title: Modern family 
+Category: drama
+Seasons: 11
+Episodes: 250
+
+Title: Suits 
+Category: Action
+Seasons: 9
+Episodes: 94
+
